@@ -1634,7 +1634,7 @@
   {
     "recordId": "BackupCrew-backup-crew-app",
     "projectName": "Backup Crew",
-    "demoUrl": "https://backupcrew.staticdomains.app/",
+    "demoUrl": "https://backupcrew.org/",
     "codeUrl": "https://github.com/BackupCrew/backup-crew-app",
     "githubUsername": "BackupCrew",
     "imageSrc": "/gallery/placeholder.svg"
